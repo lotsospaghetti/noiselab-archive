@@ -1,4 +1,8 @@
-# noiselab
+# noiselab-archive
+
+I might return to the original idea I had for this, but I realized quite a while ago this isn't a great way to learn how professional audio work is done in Linux. Not to mention I didn't have much of a scope or use-case for this project, just... "What if Bazzite but for music production?" So, I'm considering this project to be on indefinite hiatus unless I come up with some tangible, realistic ideas to work towards. If I do come back to it, I'm going to start from a completely new repo using [BlueBuild](https://blue-build.org/).
+
+## Original README
 
 A low-latency audio workstation OS based on [Universal Blue's base image](https://github.com/ublue-os/main) focused on music production, an easy-to-grasp introduction to JACK-centric workflows, and compatibility with Windows-only music gear and software.
 
